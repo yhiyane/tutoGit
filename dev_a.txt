@@ -1,11 +1,9 @@
 Dev_a : first line
-<<<<<<< HEAD
-modif
-=======
+
 
 modif 1
 
 
 modif 2
 
->>>>>>> c32de73f6d3095b845816c51db73b093be9180de
+

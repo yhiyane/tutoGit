@@ -1,2 +1,2 @@
 Dev_a : first line
-modif Dev a
+modif Dev a  modif B

@@ -1,11 +1,5 @@
 Dev_a : first line
 
+
 modif 1
-
-
-<<<<<<< HEAD
-modif 2
-=======
-modif 2
-
->>>>>>> 7776004aab2c4c6aac9cdf8904880094f5aabce8
+ modif final dans fichier dev_a

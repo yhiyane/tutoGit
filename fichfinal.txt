@@ -1,2 +1,3 @@
 test final pour ns deux
 version final fix bug
+ok th bug is fixed now
